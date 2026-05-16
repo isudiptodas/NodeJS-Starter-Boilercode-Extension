@@ -1,9 +1,15 @@
 {
   "name": "nodejs-starter-code",
-  "displayName": "nodejs-starter-code",
+  "displayName": "NodeJS Boilerplate Code Generator",
   "description": "Save time and generate nodejs boiler plate code and folder structure within a single command",
   "version": "0.0.1",
-  "icon": "images/icon.png",
+  "publisher": "isudiptodas",
+  "icon": "src/images/icon.png",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/isudiptodas/NodeJS-Starter-Boilercode-Extension"
+  },
   "engines": {
     "vscode": "^1.120.0"
   },
